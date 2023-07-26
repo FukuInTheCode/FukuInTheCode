@@ -26,3 +26,5 @@
 ## Where to contact me ? 🌎
   - Here is my discord id: fukumii
 
+
+<img src="FukuInTheCode-banner-github-end.gif">
