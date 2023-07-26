@@ -7,7 +7,8 @@
   - I'm also a chinese enjoyer in my free time.
 
 ## My ongoing projects 💻
-    I'm workin on 
+  - [I'm currently working on a simple copy of chess.com] (https://github.com/FukuInTheCode/epichess)
+  - 
 
 
 <img src="FukuInTheCode-banner-github.gif">
