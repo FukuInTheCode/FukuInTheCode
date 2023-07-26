@@ -8,4 +8,4 @@
     I'm workin on 
 
 
-<img src="FukuInTheCode-github-banner.gif">
+<img src="FukuInTheCode-banner-github.gif">
