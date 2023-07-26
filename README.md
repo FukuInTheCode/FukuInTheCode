@@ -1,3 +1,7 @@
+
+
+<img src="FukuInTheCode-banner-github.gif">
+
 # Hi there 👋
 
   What got you here ?
@@ -22,5 +26,3 @@
 ## Where to contact me ? 🌎
   - Here is my discord id: fukumii
 
-
-<img src="FukuInTheCode-banner-github.gif">
