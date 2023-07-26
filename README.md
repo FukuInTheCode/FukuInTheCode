@@ -7,7 +7,7 @@
   What got you here ?
 
 ## Who I Am ? 🤔
-  - I am just a 18 years old french guy who love Computer Science and playing video games.
+  - I am just a 18 years old french guy who love Computer Science, playing video games and want to work in the IA field. 
   - I'm also a chinese enjoyer in my free time.
   - You should also know that I love maths. 
 
