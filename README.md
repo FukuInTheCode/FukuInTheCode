@@ -13,6 +13,7 @@
 
 ## My ongoing projects 💻
   - I'm currently working on a simple copy of chess.com named [epichess](https://github.com/FukuInTheCode/epichess) !
+  - And trying to do a Neural Network in C (for now just a Perceptron that learn basic arithmetics) [my_perceptron](https://github.com/FukuInTheCode/my_perceptron)
 
   - And that all for now 😅
 
