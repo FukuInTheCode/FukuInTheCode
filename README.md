@@ -45,11 +45,6 @@
 ![FukuInTheCode's Stats](https://github-readme-stats.vercel.app/api?username=FukuInTheCode&theme=dark&hide_rank=true&show_icons=true&hide_border=true&count_private=true)
 ![FukuInTheCode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FukuInTheCode&theme=dark&hide_border=true)
 ![FukuInTheCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FukuInTheCode&theme=dark&show_icons=true&hide_border=true&layout=compact&limit=5)
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FukuInTheCode/FukuInTheCode/output/snake.svg" alt="Snake animation" />
 
 ###
 
