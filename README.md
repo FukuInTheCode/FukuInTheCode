@@ -42,7 +42,7 @@
   - Here is my discord id: fukumii
 
 ###
-![FukuInTheCode's Stats](https://github-readme-stats.vercel.app/api?username=FukuInTheCode&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![FukuInTheCode's Stats](https://github-readme-stats.vercel.app/api?username=FukuInTheCode&theme=dark&hide_rank=true&show_icons=true&hide_border=true&count_private=true)
 
 ###
 
