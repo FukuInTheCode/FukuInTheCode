@@ -42,11 +42,7 @@
   - Here is my discord id: fukumii
 
 ###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FukuInTheCode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=My Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FukuInTheCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=My Most Used Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FukuInTheCode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+![FukuInTheCode's Stats](https://github-readme-stats.vercel.app/api?username=FukuInTheCode&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ###
 
