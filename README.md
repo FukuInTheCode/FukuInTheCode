@@ -13,11 +13,16 @@
 
 ## My ongoing projects 💻
   - I'm currently working on a simple copy of chess.com named [epichess](https://github.com/FukuInTheCode/epichess) !
-  - And trying to do a Neural Network in C ! [my_neuralNetwork](https://github.com/FukuInTheCode/my_neuralNetwork)
+  - recreation of numpy in C. [my_matrix](https://github.com/FukuInTheCode/my_matrix)
+  - a lib for Neural Network in C ! [my_neuralNetwork](https://github.com/FukuInTheCode/my_neuralNetwork)
+  
 
   - And that all for now 😅
 
 ## My future projects ideas 🙃
+  - A C lib to do Deep Q learning.
+  - Make all my C projects into header only.
+  - Explore all the differents architectures of neuralnetwork (cnn, ...).
   - A web app that join math and competiton.
   - An auto git commit
   - A web app named 'MakeItLearn' and basically the users help a IA (NN) learn by giving it images and make it guess what are on the images.
