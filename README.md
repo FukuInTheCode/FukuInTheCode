@@ -13,9 +13,10 @@
 
 ## My ongoing projects 💻
   - create a simple copy of chess.com named [epichess](https://github.com/FukuInTheCode/epichess) !
-  - recreation of numpy in C. [my_matrix](https://github.com/FukuInTheCode/my_matrix)
+  - a recreation of numpy in C. [my_matrix](https://github.com/FukuInTheCode/my_matrix)
   - a lib for Neural Network in C ! [my_neuralNetwork](https://github.com/FukuInTheCode/my_neuralNetwork)
   - a lib to use genetique RL based algorithms in C. [my_evolution](https://github.com/FukuInTheCode/my_evolution)
+  - a recreation of myplotlib but in C using CSFML...  [my_Cplot](https://github.com/FukuInTheCode/my_Cplot)
   
 
   - And that all for now 😅
