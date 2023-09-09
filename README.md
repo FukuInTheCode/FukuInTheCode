@@ -12,9 +12,10 @@
   - You should also know that I love maths. 
 
 ## My ongoing projects 💻
-  - I'm currently working on a simple copy of chess.com named [epichess](https://github.com/FukuInTheCode/epichess) !
+  - create a simple copy of chess.com named [epichess](https://github.com/FukuInTheCode/epichess) !
   - recreation of numpy in C. [my_matrix](https://github.com/FukuInTheCode/my_matrix)
   - a lib for Neural Network in C ! [my_neuralNetwork](https://github.com/FukuInTheCode/my_neuralNetwork)
+  - 
   
 
   - And that all for now 😅
