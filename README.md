@@ -62,7 +62,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FukuInTheCode&theme=dark)
 
 
-
 ###
 
 <img src="FukuInTheCode-banner-github-end.gif">
