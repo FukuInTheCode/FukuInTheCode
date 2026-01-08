@@ -8,7 +8,7 @@
 
 ## Who I Am ? 🤔
   - I am just a 18(+2) years old french guy who love Computer Science, playing video games and want to work in the AI field. 
-  - I'm also a chinese enjoyer in my free time.
+  - I'm also a chinese and chess enjoyer in my free time.
   - You should also know that I love maths. 
 
 ## My on-going projects 💻
