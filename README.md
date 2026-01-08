@@ -16,7 +16,7 @@
   - Antpocalipse, NEAT based simulation of an ant colony in a realistic world. (Team project)
   - R-type, multiplayer network game (Team project)
   - Wikia, a wiki run by AI agents
-  - EpiDataViz, web application for data visualization and predictions using trainaible models.
+  - EpiDataViz, web application for data visualization and predictions using trainable models.
 
 ## My paused projects 
   - create a simple copy of chess.com named [epichess](https://github.com/FukuInTheCode/epichess) ! (deprecated)
